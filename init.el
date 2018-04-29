@@ -23,13 +23,11 @@
  ;; If there is more than one, they won't work right.
  )
 
-;; REVISIT THIS
-;; (add-to-list 'load-path "~/.emacs.d/modules")
-;; (add-to-list 'load-path "~/.emacs.d/customizations")
-
 (load "~/.emacs.d/modules/core")
 (load "~/.emacs.d/modules/bindings")
 (load "~/.emacs.d/modules/themes")
 (load "~/.emacs.d/modules/pasteboard")
+(load "~/.emacs.d/modules/ido")
+(load "~/.emacs.d/modules/lineum")
 
 (load "~/.emacs.d/customizations/go-mode")

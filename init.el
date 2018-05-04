@@ -15,7 +15,9 @@
  '(custom-safe-themes
    (quote
     ("e11569fd7e31321a33358ee4b232c2d3cf05caccd90f896e1df6cab228191109" default)))
- '(package-selected-packages (quote (ibuffer-projectile zenburn-theme go-mode go-tag))))
+ '(package-selected-packages
+   (quote
+    (yaml-mode ibuffer-projectile zenburn-theme go-mode go-tag))))
 (custom-set-faces
  ;; custom-set-faces was added by Custom.
  ;; If you edit it by hand, you could mess it up, so be careful.

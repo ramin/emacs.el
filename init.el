@@ -17,7 +17,7 @@
     ("e11569fd7e31321a33358ee4b232c2d3cf05caccd90f896e1df6cab228191109" default)))
  '(package-selected-packages
    (quote
-    (rust-mode hcl-mode yaml-mode ibuffer-projectile zenburn-theme go-mode go-tag))))
+    (haml-mode scss-mode vue-mode rust-mode hcl-mode yaml-mode ibuffer-projectile zenburn-theme go-mode go-tag))))
 (custom-set-faces
  ;; custom-set-faces was added by Custom.
  ;; If you edit it by hand, you could mess it up, so be careful.
@@ -35,3 +35,4 @@
 (load "~/.emacs.d/customizations/go-mode")
 (load "~/.emacs.d/customizations/hcl-mode")
 (load "~/.emacs.d/customizations/rust-mode")
+(load "~/.emacs.d/customizations/scss-mode")

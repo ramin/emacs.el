@@ -34,5 +34,7 @@
 
 (load "~/.emacs.d/customizations/go-mode")
 (load "~/.emacs.d/customizations/hcl-mode")
+(load "~/.emacs.d/customizations/js-mode")
 (load "~/.emacs.d/customizations/rust-mode")
 (load "~/.emacs.d/customizations/scss-mode")
+(load "~/.emacs.d/customizations/vue-mode")
